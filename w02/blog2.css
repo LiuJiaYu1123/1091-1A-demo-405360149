@@ -1,0 +1,30 @@
+#blog2
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 25px auto;
+  padding: 16.5px;
+  border: 10px solid #587ec4;
+  width: 50%;
+  font-family: fantasy;
+  font-size: 14px;
+}
+.date{
+  letter-spacing: 0.1rem;
+  color: royalblue;
+  padding: 0.02rem ;
+}
+h3 {
+    font-size:1.3rem;
+    font-weight: bolder;
+    color: darkslategray;
+    padding-bottom: 0.01px;
+  }
+  .contant1{
+      border-left:3px solid steelblue;
+      padding-left: 5px;
+      border-right: 3px solid steelblue;
+  }

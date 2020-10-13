@@ -1,0 +1,24 @@
+#line3,
+#line4 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#line3 img {
+  width: 30%;
+  margin: 1.66%;
+}
+#line4 img {
+  width: 22%;
+  margin: 1.5%;
+}
+p {
+  text-transform: uppercase;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+  font-weight: 700;
+  border-bottom: 2px solid #a8494979;
+  padding-bottom: 10px;
+  width: 30%;
+  margin: 1.66%;
+}
