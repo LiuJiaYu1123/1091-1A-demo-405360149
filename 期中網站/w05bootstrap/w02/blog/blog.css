@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px auto;
+  padding: 20px;
+  border: 20px solid #587ec4;
+  width: 80%;
+  font-family: fantasy;
+  font-size: 16px;
+}
+.date {
+  text-transform: uppercase;
+  letter-spacing: 0.5rem;
+  color: royalblue;
+  padding: 15px 0;
+}
+h2 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: darkslategray;
+  padding-bottom: 15px;
+}
+.quote {
+  border-left: 3px solid dimgray;
+  padding-left: 5px;
+}
+.post {
+  margin-bottom: 10px;
+}
+.post-info {
+  margin-top: 10px;
+}

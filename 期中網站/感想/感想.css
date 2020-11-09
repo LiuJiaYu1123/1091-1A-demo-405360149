@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: black;
+}
+.think{
+    
+    margin: 15px 20px;
+    border: blanchedalmond solid 8px;
+}
+
+h2{
+    padding-top: 10px;
+text-align: center;
+color: blanchedalmond;
+font-family: fantasy;
+}
+
+p{
+    color: blanchedalmond;
+    padding: 0px 20px;
+}

@@ -1,0 +1,24 @@
+#tample
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    border: 10px solid #bb4545;
+}
+
+#tample img
+{
+    width: 15%;
+    margin:2%;
+}
+p{
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-weight: 600;
+    border-bottom: 3px solid #bb8445;
+    padding-bottom: 5px;
+    width: 15%;
+    margin:2%;
+}
