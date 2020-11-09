@@ -29,7 +29,7 @@ p{
 .fb{
     width: 100%;
     height:750px;
-    background: url('../13350428_1099896986750389_1751372869307688511_o.jpg') no-repeat center center/cover;
+    background: url('./13350428_1099896986750389_1751372869307688511_o.jpg') no-repeat center center/cover;
     margin-bottom: 20px;
   }
 
