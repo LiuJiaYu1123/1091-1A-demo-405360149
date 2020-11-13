@@ -1,0 +1,32 @@
+#line3,
+#line4,
+line5 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#line3 img {
+  width: 30%;
+  margin: 1.66%;
+}
+
+#line4 img {
+  width: 22%;
+  margin: 1.5%;
+}
+
+#line5 img {
+  width: 16%;
+  margin: 1.1%;
+}
+
+p {
+  text-transform: uppercase;
+  font-family: fantasy;
+  font-size: 40px;
+  font-weight: 400;
+  border-bottom: 2px solid #5c5c5c;
+  padding-bottom: 10px;
+  width: 195px;
+  margin: 1.66%;
+}

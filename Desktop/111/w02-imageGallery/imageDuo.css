@@ -1,0 +1,20 @@
+#line6 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#line6 img {
+    width: 18%;
+    margin: 1%;
+}
+
+p {
+    text-transform: inherit;
+    font-family: monospace;
+    font-size: 35px;
+    font-weight: 500;
+    border-bottom: 2px solid #8b8173;
+    padding-bottom: 20px;
+    width: 285px;
+    margin: 3.5%;
+}

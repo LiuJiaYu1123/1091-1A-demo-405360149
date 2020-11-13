@@ -1,0 +1,12 @@
+#container {
+  padding: 50px 100px;
+}
+
+#container h2 {
+  padding: 20px;
+  border-bottom: 2px solid rgb(110, 110, 110);
+}
+
+#container p {
+  margin: 20px;
+}

@@ -1,0 +1,74 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#table {
+  margin: 50px;
+  align-items: center;
+}
+
+.name {
+  background-color: rgb(67, 67, 67);
+  color: rgb(255, 255, 255);
+  padding: 20px 0;
+  font-size: 18px;
+  text-align: center;
+}
+
+.title {
+  background-color: rgb(33, 33, 38);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  width: 75%;
+  height: 45px;
+  font-size: 18px;
+}
+
+.weeklyday {
+  background-color: rgb(159, 159, 159);
+  width: 30pxpx;
+  text-align: center;
+  height: 45px;
+  font-size: 18px;
+}
+
+.number {
+  background-color: rgb(220, 220, 220);
+  text-align: center;
+  padding: 6px 0;
+  width: 50px;
+  font-size: 18px;
+}
+
+.time {
+  background-color: rgb(159, 159, 159);
+  text-align: center;
+  padding: 6px 8px;
+  width: 150px;
+  font-size: 18px;
+}
+
+.classbox {
+  background-color: rgb(231, 230, 230);
+  text-align: center;
+  width: 150px;
+  height: 45px;
+  font-size: 18px;
+  color: rgb(60, 60, 60);
+}
+
+.contact {
+  background-color: rgb(67, 67, 67);
+  padding: 25px;
+  color: aliceblue;
+  font-size: 18px;
+}
+
+.email {
+  background-color: rgb(159, 159, 159);
+  height: 45px;
+  font-size: 18px;
+  text-align: center;
+}
